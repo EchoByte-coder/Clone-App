@@ -1,0 +1,345 @@
+#line{
+    background-color: black;
+    height: 70px;
+}
+*{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#logo{
+    height: 75px;
+   width: 130px;
+   padding: 1px 8px 0px 6px;
+}
+#text{
+    font-family: Arial, Helvetica, sans-serif;
+position: absolute;
+top: 15px;
+left: 167px;
+font-weight: bold;
+    color: #cccc;
+    font-size: 12px;
+    
+}
+#l{
+    height: 29px;
+    width: 25px;
+    position: absolute;
+    top: 25px;
+    left: 145px;
+}
+#cname{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30px;
+    color: white;
+    left: 167px ;
+}
+input{
+    height: 40px;
+    width: 400px;
+    border-radius: 0px;
+    position: absolute;
+    top: 10px;
+    left: 300px;
+    border-color: black;
+    
+}
+#all{
+    height: 46px;
+    width: 50px;
+    position: absolute;
+    top: 10px;
+    left: 252px;
+    border-radius: 0px;
+    
+}
+#Search{
+    height: 46px;
+    background-color: rgb(241, 168, 95);
+    position: absolute;
+    top: 10px;
+    left:708px ;
+}
+#sicon{
+    height: 30px;
+}
+#flag{
+    height: 20px;
+    width: 30px;
+    position: absolute;
+    top: 25px;
+    left: 800px;
+}
+#lang{
+    font-weight: bold;
+    color: white;
+    position: absolute;
+    top: 27px;
+    left: 840px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#uname{
+    color: white;
+    position: absolute;
+    top: 15px;
+    font-weight: bold;
+    left: 895px;
+    font-size: 12px;
+}
+#lists{
+    color: white;
+    position: absolute;
+    top: 27px;
+    left: 900px;
+    font-weight: bold;
+    font-size: 14px;
+}
+#retums{
+    font-size: 12px;
+    position: absolute;
+    top: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 1050px;
+    font-weight: bold;
+
+    
+}
+#order{
+    font-weight: bolder;
+    color: white;
+    position: absolute;
+    top: 27px;
+    left: 1052px;
+   font-size: 14px;
+}
+#cart{
+    height: 69px;
+    width:70px;
+    position: absolute;
+    top: 1px;
+    left: 1170px;
+}
+#name{
+    font-weight: bolder;
+    font-size: 15px;
+    position: absolute;
+    top:36px;
+    left: 1225px;
+    color: white;
+}
+#nav{
+    background-color: #0f1111;
+    height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+#mune{
+ height: 20px;
+ padding-left: 10px;
+ padding-top: 7px;
+}
+#p{
+    font-size: 14px;
+ position: absolute;
+ color: white;
+ top: 80px;
+ font-weight: bold;
+ left: 35px;
+}
+#deal{
+    position: absolute;
+top: 80px;
+left: 65px;
+color: white;
+}
+#cos{
+    position: absolute;
+    top: 80px;
+    left: 170px;
+    color: white;
+}
+#reg{
+    position: absolute;
+    top: 80px;
+    left: 300px;
+    color: white;
+}
+#gift{
+    position: absolute;
+    top: 80px;
+    left: 370px;
+    color: white;
+}
+#sell{
+    position: absolute;
+    top: 80px;
+    left: 450px;
+    color: white;
+}
+#baner{
+    width: 1302px;
+}
+.down{
+    display: inline-block;
+}
+#jk{
+    text-decoration: none;
+    color: rgb(54, 54, 255);
+}
+#flot{
+    position: absolute;
+    top: 450px;
+    text-align: center;
+    left: 160px;
+    height: 50px;
+    background-color: white;
+    border-color: white;
+    box-shadow: none;
+    width: 1000px;
+    border-bottom-color:white ;
+
+}
+#gaming{
+    height: 450px;
+    width: 400px;
+    position: absolute;
+    top:  550px ;
+    padding-left: 30px;
+    background-color: white;
+    left: 40px;
+    box-shadow: 50px;
+}
+#keyboard{
+    height: 160px;
+    width: 170px;
+    position: absolute;
+    top: 60px;
+}
+#kname{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    position: absolute;
+    top:250px;
+}
+h1{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 25px;
+position: absolute;
+top: 20px;
+}
+#pad{
+    position: absolute;
+    top: 300px;
+    width: 100px;
+    height: 80px;
+}
+#pname{
+    font-size: 12px;
+    margin-top: 390px;
+}
+#mouse{
+    height: 100px;
+    width: 90px;
+    position: absolute;
+    top: 70px;
+    left: 250px;
+}
+#mname{
+    position: absolute;
+    left: 260px;
+    top: 190px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+#kapara{
+    height: 450px;
+    width: 400px;
+    position: absolute;
+    top:  550px ;
+    padding-left: 30px;
+    background-color: white;
+    left: 500px;
+    box-shadow: 50px;
+}
+#plane{
+    height: 150px;
+    width: 120px;
+    position: absolute;
+    top: 50px;
+
+}
+#sname{
+    position: absolute;
+    top: 200px;
+    left: 45px;
+}
+#man{
+    height: 150px;
+    position: absolute;
+    left: 29px;
+    top: 230px;
+}
+#jklo{
+    font-size: 12px;
+   position: absolute;
+   top: 380px;
+   left: 50px;
+}
+#two{
+   position: absolute;
+   left: 210px;
+   top: 55px;
+   height: 160px;
+}
+#idk{
+    position: absolute;
+    left: 210px;
+    font-size: 15px;
+    top: 210px;
+}
+#idk2{
+    position: absolute;
+    left: 190px;
+    top: 250px;
+}
+#gg{
+    font-size: 12px;
+    position: absolute;
+    left: 250px;
+    top: 380px;
+}
+#fu{
+    height: 140px;
+    position: absolute;
+    left: 200px;
+    top: 250px;
+}
+#j{
+    position: absolute;
+    left: 250px;
+    top: 400px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#pcindeals{
+    height: 450px;
+    width: 322px;
+    position: absolute;
+    top:  550px ;
+    padding-left: 30px;
+    background-color: white;
+    left: 950px;
+    box-shadow: 50px;
+}
+#pc{
+    height: 350px;
+    margin-top: 70px;
+    position: absolute;
+    left: 2px;
+}
+body{
+    background-color: #cccc;
+}
